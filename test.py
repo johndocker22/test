@@ -1,1 +1,1 @@
-print "Hello, Dipanka!"
+print "Hello, John!"
